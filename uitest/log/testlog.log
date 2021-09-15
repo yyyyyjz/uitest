@@ -1,0 +1,23 @@
+2021-09-15 10:44:19,779 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-09-15 10:44:53,241 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 10:44:57,860 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-09-15 10:45:32,375 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:05:41,454 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:06:29,882 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:06:45,887 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:11:26,230 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:11:40,817 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:12:14,350 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:14:12,916 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:15:02,854 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:15:19,082 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:15:54,916 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:18:07,441 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:19:57,812 WARNING [urllib3.connectionpool] [connectionpool.py(urlopen:781)] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04CFE670>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/4cd53c1b97734ccd465351387a1cb433
+2021-09-15 11:20:59,310 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-09-15 11:29:28,465 INFO [root] [until_webdrivers.py(quit_driver:45)] - 测试完成，关闭driver
+2021-09-15 11:53:50,390 INFO [root] [until_webdrivers.py(quit_driver:41)] - 测试完成，关闭driver
+2021-09-15 11:54:23,826 INFO [root] [until_webdrivers.py(quit_driver:41)] - 测试完成，关闭driver
+2021-09-15 12:00:24,644 INFO [root] [until_webdrivers.py(quit_driver:41)] - 测试完成，关闭driver
+2021-09-15 13:50:11,765 INFO [root] [until_webdrivers.py(quit_driver:41)] - 测试完成，关闭driver
+2021-09-15 13:50:43,822 INFO [root] [until_webdrivers.py(quit_driver:41)] - 测试完成，关闭driver

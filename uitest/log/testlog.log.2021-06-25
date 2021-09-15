@@ -1,0 +1,4 @@
+2021-06-25 10:58:56,906 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【admin1b】，输入密码【123456】
+2021-06-25 10:59:22,363 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-06-25 10:59:29,145 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yjz】，输入密码【123456】
+2021-06-25 10:59:39,897 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver

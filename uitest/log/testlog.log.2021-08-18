@@ -1,0 +1,14 @@
+2021-08-18 19:23:17,110 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-08-18 19:23:26,379 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yjz】，输入密码【123456】
+2021-08-18 19:23:35,745 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-08-18 19:24:16,309 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-08-18 19:24:39,181 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-08-18 19:24:48,580 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-08-18 19:26:03,346 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-08-18 19:26:12,819 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-08-18 19:26:38,252 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-08-18 19:31:33,695 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-08-18 19:32:08,711 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-08-18 19:32:41,693 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver
+2021-08-18 19:32:45,584 INFO [root] [test_bingli.py(test_bingl_login:40)] - 输入emr病历系统账号:【yanjiazhi】，输入密码【123456】
+2021-08-18 19:33:18,406 INFO [root] [until_webdrivers.py(quit_driver:40)] - 测试完成，关闭driver

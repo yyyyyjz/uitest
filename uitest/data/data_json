@@ -1,0 +1,22 @@
+{
+    "dict1":
+    {
+    "username": "yanjiazhi",
+    "password": "123456",
+    "lastname": "测试",
+    "diagnosis": "啊啊啊啊1",
+    "drup_name": "辅舒酮",
+    "drup_num": "1"
+     },
+    "dict2":
+    {
+    "username": "yanjiazhi",
+    "password": "123456",
+    "lastname": "测试",
+    "diagnosis": "啊啊啊啊2",
+    "drup_name": "辅舒酮",
+    "drup_num": "1"
+     }
+
+
+}
